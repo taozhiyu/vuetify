@@ -147,6 +147,7 @@ export const VSnackbar = genericComponent<VSnackbarSlots>()({
                 VBtn: {
                   variant: 'text',
                   ripple: false,
+                  slim: true,
                 },
               }}
             >
